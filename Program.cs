@@ -62,7 +62,7 @@ internal class Program
                     break;
             }
 
-            Console.WriteLine(result);
+            Console.WriteLine($"\nРезультат {result:F2}");
 
         }
 
